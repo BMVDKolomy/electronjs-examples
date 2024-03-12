@@ -1,0 +1,14 @@
+{
+  "name": "electronjs-examples",
+  "version": "1.0.0",
+  "description": "Hello World Test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electronjs"
+  ],
+  "author": "Dmitry Kolomyistev",
+  "license": "MIT"
+}
